@@ -2,7 +2,14 @@
 
 A pixel-perfect recreation of the [Cursor](https://cursor.com) homepage, built using only **HTML** and **CSS** for practice.
 
----
+
+## 📸 Preview
+
+Here's what the clone looks like:
+
+![Resume Full Page](./screenshot/preview.png)
+
+
 
 ## Sections Recreated
 
